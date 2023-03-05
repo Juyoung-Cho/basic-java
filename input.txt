@@ -1,0 +1,3 @@
+ABC
+안녕하세요
+inputstream예제입니다.
